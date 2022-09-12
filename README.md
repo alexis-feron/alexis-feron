@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Alexis Feron</h1>
-<h3 align="center">Étudiant en BUT Informatique à Clermont-Ferrand</h3>
+<h3 align="center">Étudiant en BUT (Bachelor Universitaire de Technologie) Informatique à Clermont-Ferrand</h3>
 
 - 📫 Me contacter : **alexisferon081@gmail.com**
 
