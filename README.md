@@ -1,5 +1,5 @@
 <h1 align="center">Salut👋, je suis Alexis Feron (Hi👋, I'm Alexis Feron)</h1>
-<h3 align="center">Étudiant en Bachelor Universitaire de technologique en informatique à l'Université de Clermont-Ferrand, France (Student in the University Bachelor of Technology in Computer Science of Clermont-Ferrand, France)</h3>
+<h3 align="center">Étudiant en Bachelor Universitaire de Technologique en Informatique à l'Université de Clermont-Ferrand, France (Student in the University Bachelor of Technology in Computer Science of Clermont-Ferrand, France)</h3>
 
 <h3 align="left">Mes réseaux (Connect with me) :</h3>
 <p align="left">
