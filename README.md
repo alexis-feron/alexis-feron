@@ -7,7 +7,7 @@
 <a href="https://twitter.com/alexis_feron_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexis_feron_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexis-feron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis-feron" height="30" width="40" /></a>
 </p>
-<p>- 📫 Me contacter (How to reach me) **alexisferon081@gmail.com**</p>
+<a>- 📫 Me contacter (How to reach me) </a><a href="mailto:alexisferon081@gmail.com">alexisferon081@gmail.com</a>
 
 <h3 align="left">Langages et outils (Languages and Tools) :</h3>
 <p align="left"> 
