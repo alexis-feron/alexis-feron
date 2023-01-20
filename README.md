@@ -14,7 +14,7 @@
 ---
 
 <h3 align="left">Langages et outils (Language and tools) :</h3>
-<h4 align="left">Langages Web (Web languages) :
+<h4 align="left">Langages Web (Web languages) :</h4>
 <p align="left"> 
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="120" height="35"/>
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="120" height="35"/>
@@ -25,7 +25,7 @@
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/javascript.png" width="120" height="35"/>
 </p>
 
-<h4 align="left">Autres langages (Other languages) :
+<h4 align="left">Autres langages (Other languages) :</h4>
 <p align="left"> 
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/c.png" width="120" height="35"/>
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/c++.png" width="120" height="35"/>
@@ -35,17 +35,17 @@
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/android.png" width="120" height="35"/>
 </p>
 
-<h4 align="left">Base de données (Database) :
+<h4 align="left">Base de données (Database) :</h4>
 <p align="left"> 
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/postgre.png" width="120" height="35"/>
 </p>
 
-<h4 align="left">Autres outils (Other tools) :
+<h4 align="left">Autres outils (Other tools) :</h4>
 <p align="left"> 
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/git.png" width="120" height="35"/>
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/figma.png" width="120" height="35"/>
 <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/bash.png" width="120" height="35"/>
 </p>
 
-<h4 align="left">Langages les plus utilisés (Most used language) :
+<h4 align="left">Langages les plus utilisés (Most used language) :</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis-feron&show_icons=true&locale=en&layout=compact" alt="alexis-feron" /></p>
