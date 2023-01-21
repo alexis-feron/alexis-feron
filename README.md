@@ -38,6 +38,6 @@
 
 <h3 align="left">Statistiques (Stats) :</h3>
 <p>
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis-feron&show_icons=true&locale=en&layout=compact"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-feron&layout=compact" />
 <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=alexis-feron&show_icons=true&count_private=true" />
 </p>
