@@ -14,43 +14,20 @@
 ---
 
 <h3 align="left">Projets (Projects) :</h3>
-<p align="left"> 
+
 <h4>Quelques projets réalisés en BUT Informatique (Some school projects) :</h4>
-<h5> [MiniJeux](https://github.com/Baptiiiiste/MiniJeux) - Site web de mini-jeux contre IA (Mini games website against AI) - in dev :</h5>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/nextjs.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/react.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/javascript.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/git.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/figma.png" width="75" height="22"/>
 
-<h5> [Stormy](https://github.com/LouisDuf/Stormy) - Site web de calendrier intelligent (Smart calendar website) :</h5>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/ionic.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/typescript.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/angular.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/git.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/figma.png" width="75" height="22"/>
+- [MiniJeux](https://github.com/Baptiiiiste/MiniJeux) - Site web de mini-jeux contre IA (Mini games website against AI) - in development : <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/nextjs.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/react.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/javascript.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/git.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/figma.png" width="25" height="25"/>
 
-<h5> [To-Do List](https://github.com/alexis-feron/PHP-ToDo-List) - Site web de liste de tâches (To-Do List website) :</h5>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/php.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/git.png" width="75" height="22"/>
+- [Stormy](https://github.com/LouisDuf/Stormy) - Site web de calendrier intelligent (Smart calendar website) : <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/ionic.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/typescript.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/angular.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/git.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/figma.png" width="25" height="25"/>
 
-<h5> [Dataset Analysis Formula1](https://github.com/alexis-feron/Dataset-Analysis-Formula1) - Analyse d'un jeu de donnée sur la Formule 1 (Formula 1 Dataset Analysis) :</h5>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/python.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/postgre.png" width="75" height="22"/>
+- [To-Do List](https://github.com/alexis-feron/PHP-ToDo-List) - Site web de liste de tâches (To-Do List website) : <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/php.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/git.png" width="25" height="25"/>
+
+- [Dataset Analysis Formula1](https://github.com/alexis-feron/Dataset-Analysis-Formula1) - Analyse d'un jeu de donnée sur la Formule 1 (Formula 1 Dataset Analysis) :  <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/python.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/postgre.png" width="25" height="25"/>
 
 <h4>Quelques projets personnels (Some personal projects) :</h4>
-<h5> [CV](https://github.com/alexis-feron/CV) :</h5>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="75" height="22"/>
-<img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/javascript.png" width="75" height="22"/>
 
-</p>
+- [CV](https://github.com/alexis-feron/CV) - Site web de mon Curriculum vitae (Curriculum vitae website) : <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/html.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/css.png" width="25" height="25"/> <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/javascript.png" width="25" height="25"/>
 
 ---
 
