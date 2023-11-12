@@ -1,5 +1,6 @@
 <h1 align="center">Salut👋, je suis Alexis Feron (Hi👋, I'm Alexis Feron)</h1>
 <h3 align="center">Étudiant en Bachelor Universitaire de Technologique en Informatique à l'Université de Clermont-Ferrand, France (Student in the University Bachelor of Technology in Computer Science of Clermont-Ferrand, France)</h3>
+<a href="https://alexis-feron-portfolio.vercel.app/">Visiter mon portfolio</h3>
 
 ---
 
@@ -27,9 +28,9 @@
 
 <h4>Quelques projets personnels (Some personal projects) :</h4>
 
-- [CV](https://github.com/alexis-feron/cv) - Site web de mon curriculum vitae (Curriculum vitae website) <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/javascript.png" width="22" height="22"/>
+- [Portfolio](https://github.com/alexis-feron/portfolio) - Site web de mon portfolio (Portfolio website)
 
-- [Portfolio](https://github.com/alexis-feron/portfolio) - Site web de mon portfolio (Portfolio website) - in development
+- [CV](https://github.com/alexis-feron/cv) - Site web de mon curriculum vitae (Curriculum vitae website) <img src="https://github.com/alexis-feron/alexis-feron/blob/main/assets/javascript.png" width="22" height="22"/>
 
 D'autres projets sont disponibles sur mes (Other projects are available on my) : [Github repositories](https://github.com/alexis-feron?tab=repositories) 
 
