@@ -1,6 +1,6 @@
 <img src="/assets/header.gif" alt="Hi👋, I'm Alexis Feron" />
 
-<h3 align="center">Web developer in a work-study at Ultrō</h3>
+<h3 align="left">Web developer in a work-study at Ultrō</h3>
 You can visit my portfolio
 <a href="https://alexis-feron-portfolio.vercel.app/"> here</h3>
 
