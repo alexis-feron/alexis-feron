@@ -2,7 +2,7 @@
 
 <h3 align="left">Web developer in a work-study at Ultrō</h3>
 You can visit my portfolio
-<a href="https://alexis-feron-portfolio.vercel.app/"> here</h3>
+<a href="https://alexis-feron.com/"> here</h3>
 
 ---
 
